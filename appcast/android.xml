@@ -5,7 +5,7 @@
     <description>Android update feed for Upgrader</description>
 
     <item>
-      <title>Version 1.0.1</title>
+      <title>Version 1.0.2</title>
       <description><![CDATA[
 - Bug fixes
 - Performance improvements
@@ -15,8 +15,8 @@
       <enclosure
         url=""
         sparkle:os="android"
-        sparkle:version="1.0.1"
-        sparkle:shortVersionString="1.0.1" />
+        sparkle:version="1.0.2"
+        sparkle:shortVersionString="1.0.2" />
     </item>
   </channel>
 </rss>
